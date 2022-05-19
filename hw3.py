@@ -17,3 +17,5 @@ class cat:
     def damage(self):
         self.hp -= 25
 weywuxian = ("Wey Wuxin")
+print(weywuxian,"hello")
+
