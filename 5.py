@@ -7,5 +7,5 @@ class Flamingo(Bird):
     def standOfOneLeg(self):
         pass
 class Sparrow(Bird):
-    def jumping(self):
-        pass
+     def jumping(self):
+         pass
